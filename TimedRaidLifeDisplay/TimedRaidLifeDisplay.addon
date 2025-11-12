@@ -1,7 +1,8 @@
 ## Title: TimedRaidLifeDisplay
 ## Author: Shienar
-## APIVersion: 101047
-## Version: 1.0.0
+## APIVersion: 101047 101048
+## AddOnVersion 10002
+## Version: 1.0.2
 ## IsLibrary: False
 
 main.lua
